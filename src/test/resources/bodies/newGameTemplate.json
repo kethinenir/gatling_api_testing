@@ -1,0 +1,8 @@
+{
+  "id": "#{id}",
+  "name": "#{name}",
+  "releaseDate": "2020-01-01",
+  "reviewScore": 85,
+  "category": "driving",
+  "rating": "mature"
+}

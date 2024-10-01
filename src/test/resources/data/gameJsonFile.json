@@ -1,0 +1,57 @@
+[{
+  "id": 1,
+  "name": "TestGame2",
+  "releaseDate": "2002-02-02",
+  "reviewScore": 91,
+  "category": "Shooter",
+  "rating": "Universal"
+},
+{
+  "id": 2,
+  "name": "TestGame2",
+  "releaseDate": "2002-02-02",
+  "reviewScore": 91,
+  "category": "Shooter",
+  "rating": "Universal"
+},
+{
+  "id": 3,
+  "name": "TestGame3",
+  "releaseDate": "2003-03-03",
+  "reviewScore": 88,
+  "category": "Puzzle",
+  "rating": "Universal"
+},
+{
+"id": 4,
+"name": "TestGame4",
+"releaseDate": "2004-04-04",
+"reviewScore": 88,
+"category": "Puzzle",
+"rating": "Universal"
+},
+{
+"id": 5,
+"name": "TestGame5",
+"releaseDate": "2005-05-05",
+"reviewScore": 62,
+"category": "RPG",
+"rating": "PG-13"
+},
+{
+"id": 6,
+"name": "TestGame6",
+"releaseDate": "2006-06-06 23:59:59",
+"reviewScore": 90,
+"category": "RPG",
+"rating": "PG-13"
+},
+{
+"id": 7,
+"name": "TestGame7",
+"releaseDate": "2007-07-07 23:57:57",
+"reviewScore": 77,
+"category": "Driving",
+"rating": "Mature"
+}
+]
